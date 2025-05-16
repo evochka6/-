@@ -1,3 +1,7 @@
 Second file text
 
+<<<<<<< HEAD
 Changes made in the main branch
+=======
+Changes made in main branch
+>>>>>>> new-feature
